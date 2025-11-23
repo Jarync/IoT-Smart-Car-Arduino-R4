@@ -112,6 +112,25 @@ The car uploads data to a public ThingSpeak channel. Below is an example of the 
 
 ---
 
+## 📸 Prototype Gallery
+
+Here is the fully assembled Smart Car prototype.
+
+<img width="380" height="482" alt="屏幕截图 2025-11-23 212808" src="https://github.com/user-attachments/assets/20bdce5e-1aae-45c0-be5e-94077f5e217f" />
+
+IOT platform data.
+![WhatsApp 图像2025-11-23于21 47 08_e1ae39a9](https://github.com/user-attachments/assets/f3a182b0-0e43-4108-ab16-a01909b64c2d)
+
+Video：
+
+
+https://github.com/user-attachments/assets/134a0054-636c-4910-b61a-f50599a6a414
+
+
+
+
+*(Note: The customized chassis accommodates the battery pack and cable management.)*
+
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
