@@ -131,6 +131,20 @@ https://github.com/user-attachments/assets/134a0054-636c-4910-b61a-f50599a6a414
 
 *(Note: The customized chassis accommodates the battery pack and cable management.)*
 
-## 📜 License
+## ©️ Intellectual Property & License
 
-This project is open-source and available under the [MIT License](LICENSE).
+**Copyright © 2025 Chen Junxu. All Rights Reserved.**
+
+### ⚠️ Disclaimer (Prototype Use Only)
+This repository contains **prototype firmware and schematics** developed for educational and demonstration purposes. 
+* It **does NOT** represent the final mass-produced commercial product of any associated company or client. 
+* Specific proprietary parameters, industrial safety protocols, and commercial PCB designs have been **excluded** to protect intellectual property.
+
+### 📜 Usage Policy (CC BY-NC 4.0)
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
+1.  **Non-Commercial Use:** You are free to use, modify, and study this code for **personal learning, academic research, or hobbyist projects**.
+2.  **No Commercial Deployment:** You are **strictly prohibited** from using this code or design for commercial products, paid services, or industrial deployment without written permission.
+3.  **Attribution:** If you use this project in your work or portfolio, you must credit the author (**Chen Junxu**) and link back to this repository.
+
+---
