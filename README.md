@@ -43,7 +43,8 @@ The system is built around the **Arduino UNO R4 WiFi**, which combines the proce
 
 The following wiring diagram illustrates the connections between the sensors, drivers, and the microcontroller.
 
-![Wiring Diagram](ECC3313_Car_bb2.jpg)
+<img width="5180" height="2616" alt="ECC3313_Car_bb2" src="https://github.com/user-attachments/assets/17195674-fba8-43ed-a4fa-2d8a80e99c74" />
+
 
 ### Pin Configuration
 
